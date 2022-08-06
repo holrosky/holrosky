@@ -3,11 +3,11 @@
 Graduated from ***The University of Manchester (2016 - 2019)***   
 Major in ***Comptuer Science***      
 
-Interested in ***Android Develop***      
+Interested in ***Android Development***      
 
 Multicultural family with 2 kids 😄😄
 
-- 🔭 I’m currently working on ... ***Stock / cryptocurrency Auto trade programs***
+- 🔭 I’m currently working on ... ***Stock / cryptocurrency auto trade programs***
 - 🌱 I’m currently learning ... ***Android / Back-end***
 - 📫 How to reach me: holrosky5@gmail.com
 
