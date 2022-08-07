@@ -7,7 +7,6 @@ Interested in ***Android Development***
 
 Multicultural family with 2 kids 😄😄
 
-- 🔭 I’m currently working on ... ***Stock / cryptocurrency auto trade programs***
 - 🌱 I’m currently learning ... ***Android / Back-end***
 - 📫 How to reach me: holrosky5@gmail.com
 
