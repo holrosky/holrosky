@@ -6,6 +6,7 @@ Major in ***Comptuer Science***
 Interested in ***Android Development***      
 
 Multicultural family with 2 kids 😄😄
+Speak in ***Korean / English***
 
 - 🌱 I’m currently learning ... ***Android / Back-end***
 - 📫 How to reach me: holrosky5@gmail.com
