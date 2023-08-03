@@ -5,7 +5,7 @@ Major in ***Comptuer Science***
 
 Interested in ***Android Development***      
 
-Multicultural family with 2 kids 😄😄   
+Multicultural family😄😄   
 Speak in ***Korean / English***
 
 - 🌱 I’m currently learning ... ***Android***
