@@ -22,24 +22,11 @@
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hilt-0065D3?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVVM-4700A3?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVP-00B2A5?style=flat&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Corutine-13BEF9?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Retrofit-ECD53F?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Exo Player-9999FF?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Glide-F94877?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white"/>
-</p>
-
-<br/><br/>
-         
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holrosky&layout=compact"></p>
 <!--
 **holrosky/holrosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
