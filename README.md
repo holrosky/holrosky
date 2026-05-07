@@ -15,19 +15,6 @@
 
 <br></br>
 
-<h3 align="center"><b>I've tried...</b></h3>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-</p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holrosky&layout=compact"></p>
-<!--
-**holrosky/holrosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
