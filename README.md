@@ -2,8 +2,6 @@
 
 <p align="center">👨‍🎓 Graduated from <b>The University of Manchester</b> Majored in <b>Comptuer Science</b></p>
 <p align="center">🔥 Interested in <b>Android Development</b> <img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white"/> 
-  <a href="https://mailchi.mp/kotlinweekly/kotlin-weekly-279"><img alt="Kotlin Weekly" src="https://skydoves.github.io/badges/kotlin-weekly2.svg"/></a>
-  <a href="https://androidweekly.net/issues/issue-495"><img alt="Android Weekly" src="https://skydoves.github.io/badges/android-weekly.svg"/></a></p>
 <p align="center"> 💬 Speak in <b>Korean / English </b></p>
 
 <br/><br/>
@@ -12,7 +10,6 @@
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-3776AB?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 </p>
 
